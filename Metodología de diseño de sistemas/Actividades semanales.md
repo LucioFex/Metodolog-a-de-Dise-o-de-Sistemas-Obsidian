@@ -1,3 +1,4 @@
 #actividades
 
-[[Actividades clase 2]]
+# Actividades por clase
+- [[Clase 2 - Lista de actividades]]

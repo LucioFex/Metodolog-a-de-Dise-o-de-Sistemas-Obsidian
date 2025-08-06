@@ -1,6 +1,6 @@
 #actividades 
 
-ACT01-GRUPO#.pdf
+ACT01-GRUPO2..pdf
 # Contenido
 ```table-of-contents
 ```

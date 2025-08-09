@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividades semanales.md",
+                "file": "Clase 2 - Actividad 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Actividades semanales"
+              "title": "Clase 2 - Actividad 2"
+            }
+          },
+          {
+            "id": "6616c8a3416b03ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anotaciones generales - Clase 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Anotaciones generales - Clase 2"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,20 +210,30 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ffcc8bae280760e3",
+  "active": "6616c8a3416b03ca",
   "lastOpenFiles": [
+    "Pasted image 20250806221436.png",
+    "Pasted image 20250806221243.png",
+    "Pasted image 20250806221135.png",
+    "Pasted image 20250806221105.png",
+    "Pasted image 20250806221040.png",
+    "Pasted image 20250806220914.png",
+    "Pasted image 20250806220901.png",
+    "Pasted image 20250806220812.png",
+    "Pasted image 20250806220803.png",
+    "Pasted image 20250806220722.png",
+    "Pasted image 20250806220631.png",
+    "Instructivo de espacio de trabajo - repositorio.md",
     "Clase 2 - Actividad 2.md",
-    "Clase 2 - Actividad 1.md",
+    "Random.md",
     "Clase 2 - Lista de actividades.md",
     "Actividades semanales.md",
+    "Anotaciones generales - Clase 2.md",
+    "Clase 2 - Actividad 1.md",
     "Actividades clase 2.md",
     "IPC_01_03_ACTIVIDAD-02.pdf",
     "IPC_01_03_ACTIVIDAD-01.pdf",
-    "Instructivo de espacio de trabajo - repositorio.md",
     "TP 1.md",
-    "Pasted image 20250803014739.png",
-    "Pasted image 20250803011424.png",
-    "Pasted image 20250803001259.png",
     "Welcome.md"
   ]
 }

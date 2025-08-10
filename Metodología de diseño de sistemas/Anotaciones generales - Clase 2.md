@@ -25,8 +25,6 @@ Segmentación de alumnos facu, pensando que queremos poner un bar
 30 y 13
 
 
-
-
 Presentación tercera entrega parcial: 23 -> 16 | Virtual
 Presentación final: 6 de noviembre
 

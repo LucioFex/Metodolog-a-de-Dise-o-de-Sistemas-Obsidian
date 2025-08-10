@@ -22,20 +22,21 @@
             }
           },
           {
-            "id": "6616c8a3416b03ca",
+            "id": "8ecd009d5b4671d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotaciones generales - Clase 2.md",
+                "file": "Clase 2 - Actividades.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anotaciones generales - Clase 2"
+              "title": "Clase 2 - Actividades"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "297a461b70fe56d4",
@@ -195,27 +197,27 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8fced0ee33887245",
+  "active": "8ecd009d5b4671d8",
   "lastOpenFiles": [
+    "Pasted image 20250810192113.png",
+    "Pasted image 20250810192112.png",
+    "Pasted image 20250810192047.png",
+    "Pasted image 20250810192043.png",
+    "Pasted image 20250810190923.png",
+    "Pasted image 20250810183135.png",
+    "Imagen de WhatsApp 2025-08-10 a las 14.28.34_4d569102.jpg",
+    "Anotaciones generales - Clase 2.md",
+    "Clase 2 - Actividades.md",
+    "Clase 2 - Actividad 1.md",
+    "Clase 2 - Actividad 2.md",
     "Pasted image 20250809002845.png",
     "Instructivo de espacio de trabajo - repositorio.md",
     "Actividades semanales.md",
-    "Clase 2 - Actividad 2.md",
-    "Clase 2 - Actividad 1.md",
     "Actividades clase 2.md",
-    "Anotaciones generales - Clase 2.md",
     "Pasted image 20250806221436.png",
     "Pasted image 20250806221243.png",
     "Pasted image 20250806221135.png",
-    "Pasted image 20250806221105.png",
-    "Pasted image 20250806221040.png",
-    "Pasted image 20250806220914.png",
-    "Pasted image 20250806220901.png",
-    "Pasted image 20250806220812.png",
-    "Pasted image 20250806220803.png",
-    "Pasted image 20250806220722.png",
     "Random.md",
-    "Clase 2 - Lista de actividades.md",
     "IPC_01_03_ACTIVIDAD-02.pdf",
     "IPC_01_03_ACTIVIDAD-01.pdf",
     "TP 1.md",

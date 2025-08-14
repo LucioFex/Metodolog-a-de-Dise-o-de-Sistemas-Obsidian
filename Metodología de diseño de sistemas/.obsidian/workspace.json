@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8fced0ee33887245",
+            "id": "9a54518fc6177e03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anotaciones generales - Clase 2.md",
+                "file": "Clase 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anotaciones generales - Clase 2"
-            }
-          },
-          {
-            "id": "8ecd009d5b4671d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clase 2 - Actividades.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 2 - Actividades"
+              "title": "Clase 3"
             }
           }
         ]
@@ -93,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "297a461b70fe56d4",
@@ -196,25 +181,27 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "8fced0ee33887245",
+  "active": "9a54518fc6177e03",
   "lastOpenFiles": [
+    "Pasted image 20250813220136.png",
+    "Pasted image 20250813220037.png",
+    "Pasted image 20250813220028.png",
+    "Pasted image 20250813210806.png",
+    "Pasted image 20250813210622.png",
+    "Pasted image 20250813210421.png",
+    "Pasted image 20250813210158.png",
+    "Pasted image 20250813201641.png",
+    "Pasted image 20250813201453.png",
+    "Pasted image 20250813201155.png",
+    "Pasted image 20250813200946.png",
     "Clase 2 - Actividades.md",
-    "Pasted image 20250810192113.png",
-    "Pasted image 20250810192112.png",
-    "Pasted image 20250810192047.png",
-    "Pasted image 20250810192043.png",
-    "Pasted image 20250810190923.png",
-    "Pasted image 20250810183135.png",
-    "Imagen de WhatsApp 2025-08-10 a las 14.28.34_4d569102.jpg",
+    "Clase 3.md",
     "Anotaciones generales - Clase 2.md",
     "Clase 2 - Actividad 1.md",
     "Clase 2 - Actividad 2.md",
-    "Pasted image 20250809002845.png",
     "Instructivo de espacio de trabajo - repositorio.md",
     "Actividades semanales.md",
     "Actividades clase 2.md",
-    "Pasted image 20250806221436.png",
-    "Pasted image 20250806221243.png",
     "Random.md",
     "IPC_01_03_ACTIVIDAD-02.pdf",
     "IPC_01_03_ACTIVIDAD-01.pdf",

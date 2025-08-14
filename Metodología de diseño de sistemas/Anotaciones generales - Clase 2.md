@@ -77,6 +77,8 @@ Presentación final: 6 de noviembre
 ![[Pasted image 20250806220631.png]]
 
 ![[Pasted image 20250806220722.png]]
+![[Pasted image 20250810211340.png]]
+
 
 ![[Pasted image 20250806220803.png]]
 

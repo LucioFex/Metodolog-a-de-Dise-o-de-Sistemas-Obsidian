@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clase 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clase 2"
-            }
-          },
-          {
-            "id": "a7020af8efc05fa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Clase 1 + Actividades.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "Clase 1 + Actividades"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,12 +183,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a7020af8efc05fa6",
+  "active": "106c3c642d92ac14",
   "lastOpenFiles": [
+    "Instructivo de espacio de trabajo - repositorio.md",
+    "Clase 2.md",
+    "Clase 1 + Actividades.md",
     "Random.md",
     "Pasted image 20250806190945.png",
     "Clase 3.md",
-    "Clase 2.md",
     "Clase 2 - Actividades.md",
     "Clase 4.md",
     "Trackify.md",
@@ -218,12 +205,10 @@
     "Pasted image 20250820213046.png",
     "Clase 2 - Actividad 1.md",
     "Clase 2 - Actividad 2.md",
-    "Instructivo de espacio de trabajo - repositorio.md",
     "Actividades semanales.md",
     "Actividades clase 2.md",
     "IPC_01_03_ACTIVIDAD-02.pdf",
     "IPC_01_03_ACTIVIDAD-01.pdf",
-    "Clase 1 + Actividades.md",
     "Welcome.md"
   ]
 }

@@ -105,5 +105,5 @@ Lorem ipsum dolor sit amet.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ---
-
 # [[Clase 2]]
+# [[Instructivo de espacio de trabajo - repositorio]]

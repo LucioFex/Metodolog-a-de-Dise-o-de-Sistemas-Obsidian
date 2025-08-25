@@ -105,3 +105,7 @@ Los que ya presentaron el proyecto, tienen que presentar una mejora.
 ---
 
 **Para la semana que viene, hay que hacer una propuesta individual también.**
+
+---
+# [[Clase 3]]
+# [[Clase 2 - Actividades]]

@@ -103,3 +103,7 @@ Lorem ipsum dolor sit amet.
 ### 7. Conclusión
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+---
+
+# [[Clase 2]]

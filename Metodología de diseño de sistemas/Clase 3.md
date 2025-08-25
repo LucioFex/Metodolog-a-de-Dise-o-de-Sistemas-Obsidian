@@ -102,3 +102,7 @@ Sí, su funcionamiento se basa en la co-creación. Toda la plataforma se nutre d
 
 Propuesta de valor
 conclusiones
+
+---
+
+# [[Clase 4]]

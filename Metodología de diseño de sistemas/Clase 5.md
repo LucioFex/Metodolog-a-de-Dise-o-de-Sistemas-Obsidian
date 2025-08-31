@@ -14,8 +14,6 @@ Armar planificación de dos semanas, y luego dar un feedback de 15m
 
 
 
-
-
 ![[Pasted image 20250827184929.png]]
 ![[Pasted image 20250827184926.png]]
 

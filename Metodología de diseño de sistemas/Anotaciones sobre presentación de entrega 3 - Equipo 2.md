@@ -1,8 +1,5 @@
 #clase_11
 
-
-
-
 Pitch de 10m
 - Participamos todos
 - Repartimos los temas de forma tal que cada tema tenga un aporte de valor
